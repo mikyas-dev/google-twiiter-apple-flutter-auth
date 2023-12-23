@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1048662375433",
+    "project_id": "sign-in-da443",
+    "storage_bucket": "sign-in-da443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048662375433:android:7dc0aa11d73848904accd8",
+        "android_client_info": {
+          "package_name": "com.example.tutorial_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048662375433-aok2ob11kqu44ffvctl5vh7p6o7maalv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwnq6NCGVsAvnSmXkeLtGIWK2kVYEKOnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048662375433-aok2ob11kqu44ffvctl5vh7p6o7maalv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048662375433-2semi83b9d4nmfqi7628lto59osd14pc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tutorial1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
