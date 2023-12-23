@@ -1,4 +1,4 @@
-# tutorial_1
+# Google-twiiter-apple-flutter-auth
 
 A new Flutter project.
 
